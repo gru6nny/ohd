@@ -16,7 +16,7 @@
     <script src="https://cdn.jsdelivr.net/gh/organig-schools6/99@main/Build/UnityLoader.js"></script>
     <script>
       //var unityInstance = UnityLoader.instantiate("unityContainer", "Build/GunSpin WebGL FinalVersion.json", {onProgress: UnityProgress});
-      window.gameInstance = UnityLoader.instantiate("unityContainer", "https://cdn.jsdelivr.net/gh/organig-schools6/99@main/Build/GunSpin%20WebGL%20FinalVersion.json");
+      window.gameInstance = UnityLoader.instantiate("unityContainer", "https://cdn.jsdelivr.net/gh/organig-schools6/99@5c40e89/Build/GunSpin%20WebGL%20FinalVersion.json");
     </script>
     <style>
         * { 
