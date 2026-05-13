@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <Module>
 <ModulePrefs title="Google.com" />
 <Content type="html"><![CDATA[
@@ -16,7 +16,7 @@
     <script src="https://cdn.jsdelivr.net/gh/organig-schools6/99@main/Build/UnityLoader.js"></script>
     <script>
       //var unityInstance = UnityLoader.instantiate("unityContainer", "Build/GunSpin WebGL FinalVersion.json", {onProgress: UnityProgress});
-      window.gameInstance = UnityLoader.instantiate("unityContainer", "https://cdn.jsdelivr.net/gh/gru6nny/ohd@main/GunSpin%20WebGL%20FinalVersion.json");
+      window.gameInstance = UnityLoader.instantiate("unityContainer", "https://cdn.jsdelivr.net/gh/gru6nny/ohd@main/GunSpin%20WebGL%20FinalVersion1.json");
     </script>
     <style>
         * { 
